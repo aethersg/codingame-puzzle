@@ -23,36 +23,36 @@ while True:
 
     # A single line providing the move to be made: N NE E SE S SW W or NW
     # Store Light position
-    light_position={
-        'x':light_x,
-        'y':light_y
-        }
+    light_position = {
+        'x': light_x,
+        'y': light_y
+    }
     thor_position = {
-        'x':initial_tx + move_x,
-        'y':initial_ty + move_y
-        }
+        'x': initial_tx + move_x,
+        'y': initial_ty + move_y
+    }
 
-    distance_to_light ={
+    distance_to_light = {
         'x': (light_position.get('x') - thor_position.get('x')),
         'y': (light_position.get('y') - thor_position.get('y'))
-        }
-    if distance_to_light.get('x') == 0 and distance_to_light.get('y') <= 0 :
+    }
+    if distance_to_light.get('x') == 0 and distance_to_light.get('y') <= 0:
         print 'N'
-        move_y = move_y - 1
-    if distance_to_light.get('x') == 0 and distance_to_light.get('y') >= 0 :
+        move_y -= 1
+    if distance_to_light.get('x') == 0 and distance_to_light.get('y') >= 0:
         print 'S'
-        move_y = move_y + 1
-    if (distance_to_light.get('x') >= 0) and distance_to_light.get('y') == 0 :
+        move_y += 1
+    if (distance_to_light.get('x') >= 0) and distance_to_light.get('y') == 0:
         print 'E'
-        move_x = move_x + 1
-    if distance_to_light.get('x') <= 0 and distance_to_light.get('y') == 0 :
+        move_x += 1
+    if distance_to_light.get('x') <= 0 and distance_to_light.get('y') == 0:
         print 'W'
-        move_x = move_x - 1
-    if distance_to_light.get('x') <= 0 and (distance_to_light.get('y') > 0 and thor_position.get('y') < 17) :
+        move_x -= 1
+    if distance_to_light.get('x') <= 0 and (distance_to_light.get('y') > 0 and thor_position.get('y') < 17):
         print 'SW'
-        move_y = move_y + 1
-        move_x = move_x - 1
-    if distance_to_light.get('x') >= 0 and (distance_to_light.get('y') > 0 and thor_position.get('y') < 17) :
+        move_y += 1
+        move_x -= 1
+    if distance_to_light.get('x') >= 0 and (distance_to_light.get('y') > 0 and thor_position.get('y') < 17):
         print 'SE'
-        move_y = move_y + 1
-        move_x = move_x + 1
+        move_y += 1
+        move_x += 1
