@@ -24,7 +24,6 @@ while True:
     # Write an action using print
     # To debug: print >> sys.stderr, "Debug messages..."
 
-
     # 2 integers: rotate power. rotate is the desired rotation angle (should be 0 for level 1), power is the desired thrust power (0 to 4).
     to_ground = -1
     initial_to_ground = 0
