@@ -1,4 +1,4 @@
-codingame-puzzle
+codingame
 ================
 The coding language is in python 2 
 for now :D
