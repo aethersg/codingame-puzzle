@@ -7,3 +7,5 @@ The answers here are not the best but it can be improved with time.
 do try your hands at codingame it is really awesome ! 
 
 www.codingame.com
+
+# Easy Puzzle
