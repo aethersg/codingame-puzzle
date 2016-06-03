@@ -1,4 +1,5 @@
-# codingame-puzzle
+codingame-puzzle
+================
 The coding language is in python 2 
 for now :D
 
@@ -8,4 +9,5 @@ do try your hands at codingame it is really awesome !
 
 www.codingame.com
 
-# Easy Puzzle
+Easy Puzzle
+-----------
