@@ -1,31 +1,8 @@
-import sys
-import math
-
 lx, ly, tx, ty = [int(i) for i in raw_input().split()]
-m_x = 0
-m_y = 0
-while True:
+d = {(-1, 1): 'SW',(0, 1): 'S',(1, 1): 'SE',(-1, 0): 'W',(0, 0): None,(1, 0): 'E',(-1, -1): 'NW',(0, -1): 'N',(1, -1): 'NE'}
+while tx != lx or ty != ly:
     rt = int(raw_input())
-    lp = {'x': lx,'y': ly}
-    tp = {'x': tx + m_x,'y': ty + m_y}
-    dl = {'x': (lp.get('x') - tp.get('x')),'y': (lp.get('y') - tp.get('y'))}
-    if dl.get('x') == 0 and dl.get('y') <= 0:
-        print 'N'
-        m_y -= 1
-    if dl.get('x') == 0 and dl.get('y') >= 0:
-        print 'S'
-        m_y += 1
-    if (dl.get('x') >= 0) and dl.get('y') == 0:
-        print 'E'
-        m_x += 1
-    if dl.get('x') <= 0 and dl.get('y') == 0:
-        print 'W'
-        m_x -= 1
-    if dl.get('x') <= 0 and (dl.get('y') > 0 and tp.get('y') < 17):
-        print 'SW'
-        m_y += 1
-        m_x -= 1
-    if dl.get('x') >= 0 and (dl.get('y') > 0 and tp.get('y') < 17):
-        print 'SE'
-        m_y += 1
-        m_x += 1
+    dx, dy = map(lambda x: (x[0] > x[1]) - (x[0] < x[1]), ((lx, tx), (ly, ty)))
+    tx += dx
+    ty += dy
+    print(d.get((dx, dy)))
