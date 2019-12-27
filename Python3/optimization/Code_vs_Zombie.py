@@ -28,21 +28,21 @@ def get_distance(x1, y1, x2, y2):
 while True:
     human_array = []
     zombie_array = []
-    x, y = [int(i) for i in raw_input().split()]
-    human_count = int(raw_input())
-    for i in xrange(human_count):
-        human_id, human_x, human_y = [int(j) for j in raw_input().split()]
+    x, y = [int(i) for i in input().split()]
+    human_count = int(input())
+    for i in range(human_count):
+        human_id, human_x, human_y = [int(j) for j in input().split()]
         human_array.append(Human(human_id, human_x, human_y))
 
-    zombie_count = int(raw_input())
-    for i in xrange(zombie_count):
-        zombie_id, zombie_x, zombie_y, zombie_xnext, zombie_ynext = [int(j) for j in raw_input().split()]
+    zombie_count = int(input())
+    for i in range(zombie_count):
+        zombie_id, zombie_x, zombie_y, zombie_xnext, zombie_ynext = [int(j) for j in input().split()]
         zombie_array.append(Zombie(zombie_id, zombie_x, zombie_y, zombie_xnext, zombie_ynext))
 
-    min_dist = sys.maxint
+    min_dist = sys.maxsize - 1
     for human in human_array:
         closing_zombie = None
-        closest_zombie_dist = sys.maxint
+        closest_zombie_dist = sys.maxsize - 1
         for zombie in zombie_array:
             zdist = get_distance(human.x, human.y, zombie.x, zombie.y)
             if closest_zombie_dist > zdist:
@@ -64,7 +64,6 @@ while True:
         if not pzombie:
             break
 
-    print >> sys.stderr, "p %s" % pzombie
     if pzombie:
         center_x = 0
         center_y = 0
@@ -74,5 +73,5 @@ while True:
         center_x /= len(zombie_array)
         center_y /= len(zombie_array)
 
-        location = (center_x, center_y)
-    print "%s %s" % location
+        location = (int(center_x), int(center_y))
+    print("%s %s" % location)
