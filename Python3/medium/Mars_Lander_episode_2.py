@@ -4,7 +4,7 @@ import math
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
 
-surface_n = int(raw_input())  # the number of points used to draw the surface of Mars.
+surface_n = int(input())  # the number of points used to draw the surface of Mars.
 surface_x, surface_y = [], []
 mars_gravity = 3.711
 vertical_max_speed = 40
@@ -31,11 +31,9 @@ def move_to_location(pos_x, pos_y):
             if abs(prev_x - pos_x[i]) >= 1000:
                 return [prev_x, prev_y, pos_x[i], pos_y[i]]
             else:
-                prev_y = pos_y[i]
-                prev_x = pos_x[i]
+                prev_y, prev_x = pos_y[i], pos_x[i]
         else:
-            prev_y = pos_y[i]
-            prev_x = pos_x[i]
+            prev_y, prev_x = pos_y[i], pos_x[i]
 
 
 # this checks if the mars lander is in the landing site.
@@ -91,10 +89,10 @@ def angle_to_slow_down(current_speed_x, current_speed_y):
     return int(math.degrees(math.asin(current_speed_x / speed)))
 
 
-for i in xrange(surface_n):
+for i in range(surface_n):
     # land_x: X coordinate of a surface point. (0 to 6999)
     # land_y: Y coordinate of a surface point. By linking all the points together in a sequential fashion, you form the surface of Mars.
-    land_x, land_y = [int(j) for j in raw_input().split()]
+    land_x, land_y = [int(j) for j in input().split()]
     surface_x.append(land_x)
     surface_y.append(land_y)
 
@@ -105,19 +103,7 @@ while True:
     # fuel: the quantity of remaining fuel in liters.
     # rotate: the rotation angle in degrees (-90 to 90).
     # power: the thrust power (0 to 4).
-    x, y, h_speed, v_speed, fuel, rotate, power = [int(i) for i in raw_input().split()]
-    print >> sys.stderr, "surface_n : %s" % surface_n
-    print >> sys.stderr, "x : %s" % x
-    print >> sys.stderr, "y : %s" % y
-    print >> sys.stderr, "h_speed : %s" % h_speed
-    print >> sys.stderr, "v_speed : %s" % v_speed
-    print >> sys.stderr, "fuel : %s" % fuel
-    print >> sys.stderr, "rotate : %s" % rotate
-    print >> sys.stderr, "power : %s" % power
-    print >> sys.stderr, "surface_x : %s" % surface_x
-    print >> sys.stderr, "surface_y : %s" % surface_y
-    print >> sys.stderr, move_to_location(surface_x, surface_y)
-    print >> sys.stderr, ship_over_location(x, move_to_location(surface_x, surface_y))
+    x, y, h_speed, v_speed, fuel, rotate, power = [int(i) for i in input().split()]
     # Write an action using print
     # To debug: print >> sys.stderr, "Debug messages..."
 
@@ -127,15 +113,15 @@ while True:
     correct_site = move_to_location(surface_x, surface_y)
     if not ship_over_location(x, correct_site):
         if (check_direction(x, h_speed, correct_site)) or (check_horizontal_speed(h_speed, "FAST")):
-            print "%s %s" % (angle_to_slow_down(h_speed, v_speed), map_thrust.get(4))
+            print("%s %s" % (angle_to_slow_down(h_speed, v_speed), map_thrust.get(4)))
         elif check_horizontal_speed(h_speed, "SLOW"):
-            print "%s %s" % (angle_to_target(x, correct_site), map_thrust.get(4))
+            print("%s %s" % (angle_to_target(x, correct_site), map_thrust.get(4)))
         else:
-            print "%s %s" % (map_thrust.get(0), hover(v_speed))
+            print("%s %s" % (map_thrust.get(0), hover(v_speed)))
     else:
         if check_nearing_landing(y, correct_site):
-            print "0 3"
+            print("0 3")
         elif check_if_speed_safe(h_speed, v_speed):
-            print "0 2"
+            print("0 2")
         else:
-            print "%s 4" % angle_to_slow_down(h_speed, v_speed)
+            print("%s 4" % angle_to_slow_down(h_speed, v_speed))
