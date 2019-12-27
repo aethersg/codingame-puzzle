@@ -20,6 +20,7 @@ The table below you can see which puzzles I already completed.
 | 9   | [Temperatures](https://www.codingame.com/ide/puzzle/temperatures)                                                                 | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Temperatures.py)       |
 | 10  | [The_Descent](https://www.codingame.com/training/easy/the-descent)                                                                | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/The_Descent.py)       |
 | 11  | [The River I](https://www.codingame.com/ide/puzzle/the-river-i-)                                                                  | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/The_River_1.py)       |
+| 11  | [The River II](https://www.codingame.com/ide/puzzle/the-river-ii-)                                                                | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/The_River_2.py)       |
 
 
 ### Code Golf

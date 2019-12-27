@@ -5,9 +5,9 @@ import copy
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
 
-n = int(raw_input())
-c = raw_input()
-s = int(raw_input())
+n = int(input())
+c = input()
+s = int(input())
 
 integer_to_display = int(n)
 number_string = str(copy.copy(integer_to_display))
@@ -151,4 +151,4 @@ for a in main_array:
     for c in a:
         line += c
     answer = line.rstrip()
-    print answer
+    print(answer)
