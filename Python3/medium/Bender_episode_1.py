@@ -1,6 +1,3 @@
-import sys
-import math
-
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
 
@@ -112,12 +109,12 @@ def move(area, bender_object, move_array):
         teleport(bender_object)
 
 
-l, c = [int(i) for i in raw_input().split()]
+l, c = [int(i) for i in input().split()]
 bender = Bender()
 moves = []
 map_route = []
 for y in range(l):
-    row = raw_input()
+    row = input()
     second_layer = []
     for x, r in enumerate(row):
         second_layer.append(r)
@@ -136,7 +133,7 @@ while (map_route[bender.return_current_y()][bender.return_current_x()] != "$") a
         change_direction(map_route, bender)
         move(map_route, bender, moves)
 if len(moves) == 200:
-    print "LOOP"
+    print("LOOP")
 else:
     for m in moves:
-        print m
+        print(m)
