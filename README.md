@@ -19,7 +19,7 @@ The table below you can see which puzzles I already completed.
 | 8   | [Power_of_Thor_episode_1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                                        | :heavy_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Power_of_Thor.py)       |
 | 9   | [Temperatures](https://www.codingame.com/ide/puzzle/temperatures)                                                                 | :heavy_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Temperatures.py)       |
 | 10  | [The_Descent](https://www.codingame.com/training/easy/the-descent)                                                                | :heavy_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/The_Descent.py)       |
-| 11  | [Defibrillators](https://www.codingame.com/ide/puzzle/defibrillators)                                                             | :heavy_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Defibrillators.py)       |
+| 11  | [The River I](https://www.codingame.com/ide/puzzle/the-river-i-)                                                                  | :heavy_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/The_River_1.py)       |
 
 <!--
 
