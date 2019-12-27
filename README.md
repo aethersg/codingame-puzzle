@@ -26,6 +26,8 @@ The table below you can see which puzzles I already completed.
 | 15  | [Bank_Robbers](https://www.codingame.com/ide/puzzle/bank-robbers)                                                                 | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Bank_Robbers.py)       |
 | 16  | [How_Time_Flies](https://www.codingame.com/ide/puzzle/how-time-flies)                                                             | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/How_Time_Flies.py)       |
 | 17  | [DISORDERED_FIRST_CONTACT](https://www.codingame.com/ide/puzzle/disordered-first-contact)                                         | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Disordered_First_Contact.py)       |
+| 18  | [Ghost_Legs](https://www.codingame.com/ide/puzzle/ghost-legs)                                                                     | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Ghost_Legs.py)       |
+| 19  | [Bulk_Email_Generator](https://www.codingame.com/ide/puzzle/bulk-email-generator)                                                 | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Bulk_Email_Generator.py)       |
 
 
 
