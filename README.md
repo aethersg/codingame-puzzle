@@ -25,6 +25,7 @@ The table below you can see which puzzles I already completed.
 | 14  | [May_the_Triforce_be_with_you](https://www.codingame.com/ide/puzzle/may-the-triforce-be-with-you)                                 | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/May_the_Triforce_be_with_you.py)       |
 | 15  | [Bank_Robbers](https://www.codingame.com/ide/puzzle/bank-robbers)                                                                 | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Bank_Robbers.py)       |
 | 16  | [How_Time_Flies](https://www.codingame.com/ide/puzzle/how-time-flies)                                                             | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/How_Time_Flies.py)       |
+| 17  | [DISORDERED_FIRST_CONTACT](https://www.codingame.com/ide/puzzle/disordered-first-contact)                                         | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Disordered_First_Contact.py)       |
 
 
 
