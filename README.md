@@ -21,8 +21,19 @@ The table below you can see which puzzles I already completed.
 | 10  | [The_Descent](https://www.codingame.com/training/easy/the-descent)                                                                | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/The_Descent.py)       |
 | 11  | [The River I](https://www.codingame.com/ide/puzzle/the-river-i-)                                                                  | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/The_River_1.py)       |
 
-<!--
 
+### Code Golf
+| No. | Puzzle Name                                                                                                                       | State                        | Difficulty | Languages                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-----|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Dont_Panic](https://www.codingame.com/multiplayer/codegolf/don't-panic)                                                          | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/code-golf/Dont_Panic.py)                                                                                  |
+| 2   | [Power_of_Thor](https://www.codingame.com/multiplayer/codegolf/power-of-thor)                                                     | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/code-golf/Power_of_thor.py)                                                                                  |
+| 3   | [Temperature](https://www.codingame.com/multiplayer/codegolf/temperature-code-golf)                                               | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/code-golf/Temperatures.py)                                                                                  |
+
+
+
+
+
+<!--
 ### Medium
 | No. | Puzzle Name                                                                                                                       | State                        | Difficulty | Languages                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
