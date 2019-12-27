@@ -28,6 +28,8 @@ The table below you can see which puzzles I already completed.
 | 17  | [DISORDERED_FIRST_CONTACT](https://www.codingame.com/ide/puzzle/disordered-first-contact)                                         | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Disordered_First_Contact.py)       |
 | 18  | [Ghost_Legs](https://www.codingame.com/ide/puzzle/ghost-legs)                                                                     | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Ghost_Legs.py)       |
 | 19  | [Bulk_Email_Generator](https://www.codingame.com/ide/puzzle/bulk-email-generator)                                                 | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Bulk_Email_Generator.py)       |
+| 20  | [Credit_Card_Verifier](https://www.codingame.com/ide/puzzle/credit-card-verifier-luhns-algorithm)                                 | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Credit_Card_Verifier.py)       |
+| 21  | [Rugby_Score](https://www.codingame.com/ide/puzzle/rugby-score)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Rugby_Score.py)       |
 
 
 
