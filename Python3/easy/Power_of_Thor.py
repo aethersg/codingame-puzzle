@@ -10,12 +10,12 @@ import math
 # light_y: the Y position of the light of power
 # initial_tx: Thor's starting X position
 # initial_ty: Thor's starting Y position
-light_x, light_y, initial_tx, initial_ty = [int(i) for i in raw_input().split()]
+light_x, light_y, initial_tx, initial_ty = [int(i) for i in input().split()]
 move_x = 0
 move_y = 0
 # game loop
 while True:
-    remaining_turns = int(raw_input())  # The remaining amount of turns Thor can move. Do not remove this line.
+    remaining_turns = int(input())  # The remaining amount of turns Thor can move. Do not remove this line.
 
     # Write an action using print
     # To debug: print >> sys.stderr, "Debug messages..."
@@ -37,22 +37,22 @@ while True:
         'y': (light_position.get('y') - thor_position.get('y'))
     }
     if distance_to_light.get('x') == 0 and distance_to_light.get('y') <= 0:
-        print 'N'
+        print('N')
         move_y -= 1
     if distance_to_light.get('x') == 0 and distance_to_light.get('y') >= 0:
-        print 'S'
+        print('S')
         move_y += 1
     if (distance_to_light.get('x') >= 0) and distance_to_light.get('y') == 0:
-        print 'E'
+        print('E')
         move_x += 1
     if distance_to_light.get('x') <= 0 and distance_to_light.get('y') == 0:
-        print 'W'
+        print('W')
         move_x -= 1
     if distance_to_light.get('x') <= 0 and (distance_to_light.get('y') > 0 and thor_position.get('y') < 17):
-        print 'SW'
+        print('SW')
         move_y += 1
         move_x -= 1
     if distance_to_light.get('x') >= 0 and (distance_to_light.get('y') > 0 and thor_position.get('y') < 17):
-        print 'SE'
+        print('SE')
         move_y += 1
         move_x += 1
