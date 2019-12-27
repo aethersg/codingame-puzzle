@@ -4,10 +4,9 @@ import math
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
 
-lon = raw_input()
-lat = raw_input()
-n = int(raw_input())
-
+lon = input()
+lat = input()
+n = int(input())
 defib_list = []
 
 
@@ -26,8 +25,8 @@ def return_distance(dlon, dlat, lon, lat):
     return d
 
 
-for i in xrange(n):
-    defib = raw_input()
+for i in range(n):
+    defib = input()
     split_defid = defib.split(';')
     defib_data = {
         'id': int(split_defid[0]),
@@ -40,6 +39,7 @@ for i in xrange(n):
     defib_list.append(defib_data)
 min_distance = None
 nearest_defib = {}
+
 if len(defib_list) > 1:
     for df in defib_list:
         d = return_distance(df['lon'], df['lat'], lon, lat)
@@ -52,6 +52,4 @@ if len(defib_list) > 1:
 else:
     nearest_defib = defib_list[0]
 
-print nearest_defib['name']
-# Write an action using print
-# To debug: print >> sys.stderr, "Debug messages..."
+print(nearest_defib['name'])
