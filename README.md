@@ -51,6 +51,8 @@ The table below you can see which puzzles I already completed.
 | 14  | [Telephone_Number](https://www.codingame.com/ide/puzzle/telephone-numbers)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Telephone_Number.py)                                |
 | 15  | [Text_Alignment](https://www.codingame.com/ide/puzzle/text-alignment)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Text_Alignment.py)                                |
 | 16  | [The_Gift](https://www.codingame.com/ide/puzzle/the-gift)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/The_Gift.py)                                |
+| 17  | [Scrabble](https://www.codingame.com/ide/puzzle/scrabble)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Scrabble.py)                                |
+| 18  | [The_Fastest](https://www.codingame.com/ide/puzzle/the-fastest)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/The_Fastest.py)                                |
 
 
 

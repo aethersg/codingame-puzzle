@@ -14,11 +14,11 @@ WORD_POINTS = {
     "y": 4, "z": 10
 }
 
-n = int(raw_input())
-for i in xrange(n):
-    w = raw_input()
+n = int(input())
+for i in range(n):
+    w = input()
     DICT_WORDS.append(w)
-letters = raw_input()
+letters = input()
 
 
 def scrabble_points(word):
@@ -55,4 +55,4 @@ for wp in WORD_POSSIBLE:
         max_point = score
         return_word = wp
 
-print return_word
+print(return_word)
