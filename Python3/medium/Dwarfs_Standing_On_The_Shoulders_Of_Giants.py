@@ -1,7 +1,3 @@
-import sys
-import math
-
-
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
 
@@ -20,10 +16,10 @@ class Node(object):
 
 
 nodes = {}
-n = int(raw_input())  # the number of relationships of influence
-for i in xrange(n):
+n = int(input())  # the number of relationships of influence
+for i in range(n):
     # x: a relationship of influence between two people (x influences y)
-    x, y = [int(j) for j in raw_input().split()]
+    x, y = [int(j) for j in input().split()]
     if x not in nodes:
         nodes[x] = Node(x)
     if y not in nodes:
@@ -40,4 +36,4 @@ for j in nodes.values():
 
 
 # The number of people involved in the longest succession of influences
-print max_depth
+print(max_depth)
