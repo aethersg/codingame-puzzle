@@ -4,7 +4,7 @@ import math
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
 
-n = int(raw_input())
+n = int(input())
 telephone_list = []
 
 
@@ -20,7 +20,7 @@ def make_tree(tl):
 def count_child(d):
     yield len(d)
 
-    for v in d.itervalues():
+    for v in d.values():
         if isinstance(v, dict):
             for x in count_child(v):
                 yield x
@@ -30,8 +30,8 @@ def return_sum(d):
     return sum(count_child(d))
 
 
-for i in xrange(n):
-    telephone = raw_input()
+for i in range(n):
+    telephone = input()
     telephone_list.append(telephone)
 # Write an action using print
 # To debug: print >> sys.stderr, "Debug messages..."
@@ -40,4 +40,4 @@ for i in xrange(n):
 
 tree = make_tree(telephone_list)
 count = return_sum(tree)
-print count
+print(count)
