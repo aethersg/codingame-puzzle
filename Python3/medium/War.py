@@ -1,9 +1,5 @@
-import sys
-import math
-
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
-# TODO: have to write in the explaination
 p1, p2 = [], []
 card_value = {
     "2": 1,
@@ -21,13 +17,13 @@ card_value = {
     "A": 13
 }
 
-n = int(raw_input())  # the number of cards for player 1
-for i in xrange(n):
-    cardp_1 = raw_input()  # the n cards of player 1
+n = int(input())  # the number of cards for player 1
+for i in range(n):
+    cardp_1 = input()  # the n cards of player 1
     p1.append(cardp_1)
-m = int(raw_input())  # the number of cards for player 2
-for i in xrange(m):
-    cardp_2 = raw_input()  # the m cards of player 2
+m = int(input())  # the number of cards for player 2
+for i in range(m):
+    cardp_2 = input()  # the m cards of player 2
     p2.append(cardp_2)
 # Write an action using print
 # To debug: print >> sys.stderr, "Debug messages..."
