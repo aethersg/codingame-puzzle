@@ -38,6 +38,7 @@ The table below you can see which puzzles I already completed.
 | 1   | [Bender_Episode_1](https://www.codingame.com/ide/puzzle/bender-episode-1)                                                                       | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Bender_episode_1.py)                                                                                  |
 | 2   | [Mars_Lander_episode_2](https://www.codingame.com/ide/puzzle/mars-lander-episode-2)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Mars_Lander_episode_2.py)                                |
 | 3   | [There_Is_No_Spoon_episode_1](https://www.codingame.com/ide/puzzle/there-is-no-spoon-episode-1)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/There_Is_No_Spoon_episode_1.py)                                |
+| 4   | [Shadows_Of_The_Knight_episode_1](https://www.codingame.com/ide/puzzle/shadows-of-the-knight-episode-1)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Shadows_Of_The_Knight_episode_1.py)                                |
 
 
 ### Code Golf
