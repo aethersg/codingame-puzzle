@@ -40,6 +40,7 @@ The table below you can see which puzzles I already completed.
 | 3   | [There_Is_No_Spoon_episode_1](https://www.codingame.com/ide/puzzle/there-is-no-spoon-episode-1)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/There_Is_No_Spoon_episode_1.py)                                |
 | 4   | [Shadows_Of_The_Knight_episode_1](https://www.codingame.com/ide/puzzle/shadows-of-the-knight-episode-1)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Shadows_Of_The_Knight_episode_1.py)                                |
 | 5   | [War](https://www.codingame.com/ide/puzzle/winamax-battle)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/War.py)                                |
+| 6   | [Skynet_Revolution_episode_1](https://www.codingame.com/ide/puzzle/skynet-revolution-episode-1)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Skynet_Revolution_episode_1.py)                                |
 
 
 ### Code Golf
