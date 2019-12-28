@@ -4,8 +4,8 @@ import math
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
 
-r = int(raw_input())
-l = int(raw_input())
+r = int(input())
+l = int(input())
 
 
 def lookandsay(number):
@@ -44,4 +44,4 @@ num = str(r)
 for i in range(l - 1):
     num = lookandsay(num)
 
-print num.replace(",", " ")
+print(num.replace(",", " "))
