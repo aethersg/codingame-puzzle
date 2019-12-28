@@ -46,6 +46,7 @@ The table below you can see which puzzles I already completed.
 | 9   | [Dont_Panic_episode_1](https://www.codingame.com/ide/puzzle/don't-panic-episode-1)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Dont_Panic_episode_1.py)                                |
 | 10  | [The_Last_Crusade_episode_1](https://www.codingame.com/ide/puzzle/the-last-crusade-episode-1)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/The_Last_Crusade_episode_1.py)                                |
 | 11  | [Mayan_Calculation](https://www.codingame.com/ide/puzzle/mayan-calculation)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Mayan_Calculation.py)                                |
+| 11  | [Stock_Exchange_Losses](https://www.codingame.com/ide/puzzle/stock-exchange-losses)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Stock_Exchange_Losses.py)                                |
 
 
 
