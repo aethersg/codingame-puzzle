@@ -49,6 +49,7 @@ The table below you can see which puzzles I already completed.
 | 12  | [Stock_Exchange_Losses](https://www.codingame.com/ide/puzzle/stock-exchange-losses)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Stock_Exchange_Losses.py)                                |
 | 13  | [Network_Cabling](https://www.codingame.com/ide/puzzle/network-cabling)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Network_Cabling.py)                                |
 | 14  | [Telephone_Number](https://www.codingame.com/ide/puzzle/telephone-numbers)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Telephone_Number.py)                                |
+| 14  | [Text_Alignment](https://www.codingame.com/ide/puzzle/text-alignment)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Text_Alignment.py)                                |
 
 
 

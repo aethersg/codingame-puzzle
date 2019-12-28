@@ -1,7 +1,3 @@
-import sys
-import math
-
-
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
 def words_len(array):
@@ -20,13 +16,13 @@ def justify(sentence, width):
     return ''.join(words)
 
 
-alignment = raw_input()
-n = int(raw_input())
+alignment = input()
+n = int(input())
 
 map_line = []
 max_size = 0
-for i in xrange(n):
-    text = raw_input()
+for i in range(n):
+    text = input()
     max_size = max(len(text), max_size)
     map_line.append(text)
 
@@ -34,10 +30,10 @@ for i in xrange(n):
 # To debug: print >> sys.stderr, "Debug messages..."
 for t in map_line:
     if alignment == "LEFT":
-        print t.ljust(0)
+        print(t.ljust(0))
     if alignment == "RIGHT":
-        print t.rjust(max_size)
+        print(t.rjust(max_size))
     if alignment == "CENTER":
-        print t.center(max_size).rstrip()
+        print(t.center(max_size).rstrip())
     if alignment == "JUSTIFY":
-        print justify(t, max_size)
+        print(justify(t, max_size))
