@@ -29,13 +29,11 @@ def permutations(l):
         return res
 
 
-n = int(raw_input())
+n = int(input())
 strings = []
-for i in xrange(n):
-    subseq = raw_input()
+for i in range(n):
+    subseq = input()
     strings.append(subseq)
-    print >> sys.stderr, "seq : %s" % subseq
-print >> sys.stderr, "the strings: %s" % strings
 # Write an action using print
 # To debug: print >> sys.stderr, "Debug messages..."
 
