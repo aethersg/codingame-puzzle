@@ -54,19 +54,19 @@ def seg_3(char, ia, w):
 
 
 def seg_4(char, ia, h):
-    fill_horizontal(char, ia, 1, (h / 2))
+    fill_horizontal(char, ia, 1, int(h / 2))
 
 
 def seg_5(char, ia, h):
-    fill_vertical(char, ia, 0, ((h / 2) + 1))
+    fill_vertical(char, ia, 0, int((h / 2) + 1))
 
 
 def seg_6(char, ia, w, h):
-    fill_vertical(char, ia, (w - 1), ((h / 2) + 1))
+    fill_vertical(char, ia, (w - 1), int((h / 2) + 1))
 
 
 def seg_7(char, ia, h):
-    fill_horizontal(char, ia, 1, (h - 1))
+    fill_horizontal(char, ia, 1, int(h - 1))
 
 
 def create_array(width, height):
@@ -134,6 +134,7 @@ def create_array(width, height):
 
     return integer_array
 
+
 main_array = []
 for inte in number_string:
     array = create_array(width, height)
@@ -144,7 +145,6 @@ for inte in number_string:
             main_array[no].append(" ")
             for n in array[no]:
                 main_array[no].append(n)
-
 
 for a in main_array:
     line = ""
