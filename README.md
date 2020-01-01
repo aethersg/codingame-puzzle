@@ -61,6 +61,7 @@ The table below you can see which puzzles I already completed.
 | 1   | [7_Segment_Display](https://www.codingame.com/ide/puzzle/7-segment-display)                                                             | :white_check_mark: Completed | N.A       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/hard/7_Segment_Display.py)                                                                                  |
 | 2   | [Genome_Sequencing](https://www.codingame.com/ide/puzzle/genome-sequencing)                                                             | :white_check_mark: Completed | N.A       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/hard/Genome_Sequencing.py)                                                                                  |
 | 3   | [Super_Computer](https://www.codingame.com/ide/puzzle/super-computer)                                                             | :white_check_mark: Completed | N.A       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/hard/Super_Computer.py)                                                                                  |
+| 4   | [CGX_Formatter](https://www.codingame.com/ide/puzzle/cgx-formatter)                                                             | :white_check_mark: Completed | N.A       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/hard/CGX_Formatter.py)                                                                                  |
 
 
 
