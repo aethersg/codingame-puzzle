@@ -30,6 +30,7 @@ The table below you can see which puzzles I already completed.
 | 19  | [Bulk_Email_Generator](https://www.codingame.com/ide/puzzle/bulk-email-generator)                                                 | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Bulk_Email_Generator.py)       |
 | 20  | [Credit_Card_Verifier](https://www.codingame.com/ide/puzzle/credit-card-verifier-luhns-algorithm)                                 | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Credit_Card_Verifier.py)       |
 | 21  | [Rugby_Score](https://www.codingame.com/ide/puzzle/rugby-score)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Rugby_Score.py)       |
+| 21  | [Organic_Compound](https://www.codingame.com/ide/puzzle/organic-compounds)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Organic_Compound.py)       |
 
 
 ### Medium
