@@ -53,6 +53,7 @@ The table below you can see which puzzles I already completed.
 | 16  | [The_Gift](https://www.codingame.com/ide/puzzle/the-gift)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/The_Gift.py)                                |
 | 17  | [Scrabble](https://www.codingame.com/ide/puzzle/scrabble)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Scrabble.py)                                |
 | 18  | [The_Fastest](https://www.codingame.com/ide/puzzle/the-fastest)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/The_Fastest.py)                                |
+| 19  | [Carmichael_Numbers](https://www.codingame.com/ide/puzzle/carmichael-numbers)                                                             | :white_check_mark: Completed | Medium       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/medium/Carmichael_Numbers.py)                                |
 
 
 
