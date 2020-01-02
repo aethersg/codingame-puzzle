@@ -33,6 +33,7 @@ The table below you can see which puzzles I already completed.
 | 22  | [Organic Compound](https://www.codingame.com/ide/puzzle/organic-compounds)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Organic_Compound.py)       |
 | 23  | [Hunger Games](https://www.codingame.com/ide/puzzle/hunger-games)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Hunger_Games.py)       |
 | 24  | [Self Driving Car](https://www.codingame.com/ide/puzzle/self-driving-car-testing)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Self_Driving_Car.py)       |
+| 25  | [Add'em Up](https://www.codingame.com/ide/puzzle/addem-up)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Addem_Up.py)       |
 
 
 ### Medium
