@@ -32,6 +32,7 @@ The table below you can see which puzzles I already completed.
 | 21  | [Rugby Score](https://www.codingame.com/ide/puzzle/rugby-score)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Rugby_Score.py)       |
 | 22  | [Organic Compound](https://www.codingame.com/ide/puzzle/organic-compounds)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Organic_Compound.py)       |
 | 23  | [Hunger Games](https://www.codingame.com/ide/puzzle/hunger-games)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Hunger_Games.py)       |
+| 24  | [Self Driving Car](https://www.codingame.com/ide/puzzle/self-driving-car-testing)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Self_Driving_Car.py)       |
 
 
 ### Medium
