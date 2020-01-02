@@ -30,7 +30,8 @@ The table below you can see which puzzles I already completed.
 | 19  | [Bulk Email Generator](https://www.codingame.com/ide/puzzle/bulk-email-generator)                                                 | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Bulk_Email_Generator.py)       |
 | 20  | [Credit Card Verifier](https://www.codingame.com/ide/puzzle/credit-card-verifier-luhns-algorithm)                                 | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Credit_Card_Verifier.py)       |
 | 21  | [Rugby Score](https://www.codingame.com/ide/puzzle/rugby-score)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Rugby_Score.py)       |
-| 21  | [Organic Compound](https://www.codingame.com/ide/puzzle/organic-compounds)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Organic_Compound.py)       |
+| 22  | [Organic Compound](https://www.codingame.com/ide/puzzle/organic-compounds)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Organic_Compound.py)       |
+| 23  | [Hunger Games](https://www.codingame.com/ide/puzzle/hunger-games)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Hunger_Games.py)       |
 
 
 ### Medium
