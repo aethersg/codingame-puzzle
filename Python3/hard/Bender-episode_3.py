@@ -17,12 +17,11 @@ complex = [lambda x: 1,
 upperLimit = [None, None, None, None, None, None, None, 500]
 
 x, pref = [], []
-n = int(raw_input())
-for i in xrange(n):
-    num, t = [int(j) for j in raw_input().split()]
+n = int(input())
+for i in range(n):
+    num, t = [int(j) for j in input().split()]
     x.append(num)
     pref.append(t)
-    print >> sys.stderr, "this is num : %s  this is t : %s" % (num, t)
 
 # Write an action using print
 # To debug: print >> sys.stderr, "Debug messages..."

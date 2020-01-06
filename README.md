@@ -37,6 +37,8 @@ The table below you can see which puzzles I already completed.
 | 26  | [1DSpreadsheet](https://www.codingame.com/ide/puzzle/1d-spreadsheet)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/1D_Spreadsheet.py)       |
 | 27  | [Rectangle Parition](https://www.codingame.com/ide/puzzle/rectangle-partition)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Rectangle_Parition.py)       |
 | 28  | [Unit Fractions](https://www.codingame.com/ide/puzzle/unit-fractions)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Unit_Fractions.py)       |
+| 29  | [Hello World!](https://www.codingame.com/ide/puzzle/hello-world)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Hello_World!.py)       |
+
 
 
 
