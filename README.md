@@ -38,6 +38,7 @@ The table below you can see which puzzles I already completed.
 | 27  | [Rectangle Parition](https://www.codingame.com/ide/puzzle/rectangle-partition)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Rectangle_Parition.py)       |
 | 28  | [Unit Fractions](https://www.codingame.com/ide/puzzle/unit-fractions)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Unit_Fractions.py)       |
 | 29  | [Hello World!](https://www.codingame.com/ide/puzzle/hello-world)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Hello_World!.py)       |
+| 30  | [Detective Pikaptcha EP1](https://www.codingame.com/ide/puzzle/detective-pikaptcha-ep1)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Detective_Pikaptcha_episode_1.py)       |
 
 
 
