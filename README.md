@@ -40,6 +40,7 @@ The table below you can see which puzzles I already completed.
 | 29  | [Hello World!](https://www.codingame.com/ide/puzzle/hello-world)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Hello_World!.py)       |
 | 30  | [Detective Pikaptcha EP1](https://www.codingame.com/ide/puzzle/detective-pikaptcha-ep1)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Detective_Pikaptcha_episode_1.py)       |
 | 31  | [Detective Pikaptcha EP2](https://www.codingame.com/ide/puzzle/detective-pikaptcha-ep2)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Detective_Pikaptcha_episode_2.py)       |
+| 32  | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/ide/puzzle/encryptiondecryption-of-enigma-machine)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Encryption_Decryption_Of_Enigma_Machine.py)       |
 
 
 
