@@ -42,7 +42,7 @@ The table below you can see which puzzles I already completed.
 | 31  | [Detective Pikaptcha EP2](https://www.codingame.com/ide/puzzle/detective-pikaptcha-ep2)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Detective_Pikaptcha_episode_2.py)       |
 | 32  | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/ide/puzzle/encryptiondecryption-of-enigma-machine)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Encryption_Decryption_Of_Enigma_Machine.py)       |
 | 33  | [Lumen](https://www.codingame.com/ide/puzzle/lumen)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Lumen.py)       |
-| 34  | [Graffiti on the fence](https://www.codingame.com/ide/puzzle/graffiti-on-the-fence)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Lumen.py)       |
+| 34  | [Graffiti on the fence](https://www.codingame.com/ide/puzzle/graffiti-on-the-fence)                                                                   | :white_check_mark: Completed | Easy       | [Python](https://github.com/aethersg/codingame-puzzle/blob/master/Python3/easy/Graffiti_On_The_Fence.py)       |
 
 
 
